@@ -1,7 +1,7 @@
 # 📊 DataDash
 ETL + Dashboard orientado a negocio con MongoDB, React y Python
 
-**SigmaDataDash** es un dashboard de visualización de datos creado para practicar y demostrar habilidades en procesamiento de datos (ETL), APIs y frontend interactivo. Este proyecto combina Python para el tratamiento de datos, Node.js como backend API, y React para la visualización final.
+***DataDash*** es un dashboard de visualización de datos creado para practicar y demostrar habilidades en procesamiento de datos (ETL), APIs y frontend interactivo. Este proyecto combina Python para el tratamiento de datos, Node.js como backend API, y React para la visualización final.
 
 ---
 
