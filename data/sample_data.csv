@@ -1,0 +1,11 @@
+fecha,producto,categoria,cantidad,precio_unitario,total_venta,cliente,ciudad
+2025-06-01,Audífonos X12,Electrónica,2,120,240,Juan Pérez,Huánuco
+2025-06-02,Smartwatch A3,Electrónica,1,300,300,Carla Gómez,Tingo María
+2025-06-02,Camiseta Pro,Ropa,3,50,150,Pedro Sosa,Huánuco
+2025-06-03,Laptop Z4000,Electrónica,1,2500,2500,Rosa Vidal,Pucallpa
+2025-06-03,Zapatillas Ultra,Ropa,2,200,400,Andrés Ríos,Huánuco
+2025-06-04,Mouse Gaming T3,Electrónica,4,80,320,Luis Quispe,Tingo María
+2025-06-05,Chaqueta Polar,Ropa,1,180,180,Elena Torres,Huánuco
+2025-06-06,Tablet Mini 8,Electrónica,2,850,1700,César Luna,Pucallpa
+2025-06-06,Short Deportivo,Ropa,3,45,135,Jorge Campos,Tingo María
+2025-06-07,Auriculares Pro,Electrónica,1,150,150,Marta Ayala,Huánuco

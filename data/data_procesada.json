@@ -1,0 +1,112 @@
+[
+    {
+        "fecha": "2025-06-01",
+        "producto": "Aud\u00edfonos X12",
+        "categoria": "Electr\u00f3nica",
+        "cantidad": 2,
+        "precio_unitario": 120,
+        "total_venta": 240,
+        "cliente": "Juan P\u00e9rez",
+        "ciudad": "Hu\u00e1nuco",
+        "total": 240
+    },
+    {
+        "fecha": "2025-06-02",
+        "producto": "Smartwatch A3",
+        "categoria": "Electr\u00f3nica",
+        "cantidad": 1,
+        "precio_unitario": 300,
+        "total_venta": 300,
+        "cliente": "Carla G\u00f3mez",
+        "ciudad": "Tingo Mar\u00eda",
+        "total": 300
+    },
+    {
+        "fecha": "2025-06-02",
+        "producto": "Camiseta Pro",
+        "categoria": "Ropa",
+        "cantidad": 3,
+        "precio_unitario": 50,
+        "total_venta": 150,
+        "cliente": "Pedro Sosa",
+        "ciudad": "Hu\u00e1nuco",
+        "total": 150
+    },
+    {
+        "fecha": "2025-06-03",
+        "producto": "Laptop Z4000",
+        "categoria": "Electr\u00f3nica",
+        "cantidad": 1,
+        "precio_unitario": 2500,
+        "total_venta": 2500,
+        "cliente": "Rosa Vidal",
+        "ciudad": "Pucallpa",
+        "total": 2500
+    },
+    {
+        "fecha": "2025-06-03",
+        "producto": "Zapatillas Ultra",
+        "categoria": "Ropa",
+        "cantidad": 2,
+        "precio_unitario": 200,
+        "total_venta": 400,
+        "cliente": "Andr\u00e9s R\u00edos",
+        "ciudad": "Hu\u00e1nuco",
+        "total": 400
+    },
+    {
+        "fecha": "2025-06-04",
+        "producto": "Mouse Gaming T3",
+        "categoria": "Electr\u00f3nica",
+        "cantidad": 4,
+        "precio_unitario": 80,
+        "total_venta": 320,
+        "cliente": "Luis Quispe",
+        "ciudad": "Tingo Mar\u00eda",
+        "total": 320
+    },
+    {
+        "fecha": "2025-06-05",
+        "producto": "Chaqueta Polar",
+        "categoria": "Ropa",
+        "cantidad": 1,
+        "precio_unitario": 180,
+        "total_venta": 180,
+        "cliente": "Elena Torres",
+        "ciudad": "Hu\u00e1nuco",
+        "total": 180
+    },
+    {
+        "fecha": "2025-06-06",
+        "producto": "Tablet Mini 8",
+        "categoria": "Electr\u00f3nica",
+        "cantidad": 2,
+        "precio_unitario": 850,
+        "total_venta": 1700,
+        "cliente": "C\u00e9sar Luna",
+        "ciudad": "Pucallpa",
+        "total": 1700
+    },
+    {
+        "fecha": "2025-06-06",
+        "producto": "Short Deportivo",
+        "categoria": "Ropa",
+        "cantidad": 3,
+        "precio_unitario": 45,
+        "total_venta": 135,
+        "cliente": "Jorge Campos",
+        "ciudad": "Tingo Mar\u00eda",
+        "total": 135
+    },
+    {
+        "fecha": "2025-06-07",
+        "producto": "Auriculares Pro",
+        "categoria": "Electr\u00f3nica",
+        "cantidad": 1,
+        "precio_unitario": 150,
+        "total_venta": 150,
+        "cliente": "Marta Ayala",
+        "ciudad": "Hu\u00e1nuco",
+        "total": 150
+    }
+]

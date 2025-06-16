@@ -19,12 +19,6 @@ frontend/.env
 # VSCode
 .vscode/
 
-# Datos
-/data/*.csv
-/data/*.json
-/data/*.parquet
-/data/*.xlsx
-
 # Sistema
 .DS_Store
 Thumbs.db
